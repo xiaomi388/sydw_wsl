@@ -1,0 +1,21 @@
+{
+    "统一社会信用代码": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/p[@class='MsoNormal'][2]/span[@class='font21']/b/span",
+    "年度": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/p[@class='MsoNormal'][9]/span[@class='font21']/b/span",
+    "单位名称": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/div[@class='TRS_PreAppend'][1]/table[@class='MsoNormalTable']/tbody/tr/td[2]/p[@class='MsoNormal']/span[@class='font61']/span",
+    "法定代表人": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[4]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "宗旨和业务范围": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[2]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "住所": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[3]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "开办资金": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[5]/td[2]/p[@class='MsoNormal']/span[@class='font71'][1]/span",
+    "经费来源": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[6]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "举办单位": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[7]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "年初数": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[10]/td[1]/p[@class='MsoNormal']/span[@class='font61']/span",
+    "年末数": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[10]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "网上名称": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[11]/td[2]/p[@class='MsoNormal']/span",
+    "从业人数": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[11]/td[4]/p[@class='MsoNormal']",
+    "对《条例》和实施细则有关变更登记规定的执行情况": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[12]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "开展业务活动情况": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[13]/td[2]/p[@class='MsoNormal'][1]/span[@class='font71']/span",
+    "相关资质认可或执业许可证明及有效期": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[14]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "绩效和受奖惩及诉讼投诉情况": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[15]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span",
+    "接受捐赠资助及使用情况": "/html/body/form[@id='searchForm']/table/tr[5]/td/table/tr[2]/td[@class='zong1424']/table/tbody/tr[2]/td/table/tbody/tr[5]/td/table[@class='MsoNormalTable']/tbody/tr[16]/td[2]/p[@class='MsoNormal']/span[@class='font71']/span"
+}
+
