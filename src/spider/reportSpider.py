@@ -1,4 +1,5 @@
 #coding:utf-8
+import atexit
 import asyncio
 import aiohttp
 import async_timeout
@@ -9,6 +10,7 @@ from tenacity import *
 from pipeline import reportPipeline
 from logger_helper import logger
 
+
 class reportSpider(object):
     def __init__(self, settings, report_list, xpath, districts_json, session):
         self.settings = settings
@@ -18,6 +20,12 @@ class reportSpider(object):
         self.districts_json = districts_json
         self.report_pipeline = reportPipeline(settings['parameters'])
         self.counter = dict()
+        atexit.register(self.save_list)
+
+    def save_list(self):
+        if not len(self.report_list) == 0:
+            with open('.job', 'w') as f:
+                f.write('\n'.join([ "{0},{1}".format(i[0], i[1]) for i in self.report_list ]))
 
     def get_district_name(self, district_code):
         index = self.districts_json['index'][district_code]
@@ -32,13 +40,15 @@ class reportSpider(object):
 
     @retry(retry=retry_if_exception_type(asyncio.TimeoutError))
     async def crawl(self, district_code, report_id):
+        while self.session._connector._limit - len(self.session._connector._waiters) - len(self.session._connector._acquired) <= 0:
+            await asyncio.sleep(1)
         # record counter
         if report_id in self.counter:
             self.counter[report_id] += 1 
         else:
-            self.counter[report_id] = 1
+            self.counter[report_id] = 0
         if self.counter[report_id] == self.settings['max_attempts']:
-            print("attempt {} reachs max_attempts, failed")
+            print("attempt {} reachs max_attempts, failed".format(report_id))
             del self.counter[report_id]
             return 
 
@@ -48,7 +58,7 @@ class reportSpider(object):
         # get district
         district_name = self.get_district_name(district_code)
 
-        with async_timeout.timeout(self.settings['timeout']):
+        with aiohttp.Timeout(self.settings['timeout']):
             async with self.session.get(url) as response:
                 html = ET.HTML(await response.text())
                 for parameter in self.settings['parameters']:
@@ -66,16 +76,13 @@ class reportSpider(object):
                             arguments.append('')
                 self.report_pipeline.save(arguments)
         del self.counter[report_id]
-        report_list.remove((district_code, report_id))
+        self.report_list.remove((district_code, report_id))
 
     async def start(self):
-        print(self.report_list)
         tasks = [ self.crawl(report[0], report[1]) for report in self.report_list ]
         try:
             [ await f for f in tqdm.tqdm(asyncio.as_completed(tasks), total=len(tasks)) ]
         except Exception as e:
             logger.error('A fatal error occured when crawling report! Reason: {}'.format(e))
             print('A fatal error occured when crawling report! Reason: {}'.format(e))
-            with open('.job', 'w') as f:
-                f.write('\n'.join([ "{0},{1}".format(i[0], i[1]) for i in self.report_list ]))
             exit()

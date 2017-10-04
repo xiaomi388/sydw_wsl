@@ -14,15 +14,12 @@ class Scheduler(object):
         global settings, xpath, arguments_map
         xpath_path = os.path.join(self.config_dir, 'xpath.json')
         settings_path = os.path.join(self.config_dir, 'settings.conf')
-#        map_path = os.path.join(self.config_dir, 'map.json')
         districts_path = os.path.join(self.config_dir, 'districts.json')
 
         with open(xpath_path) as f:
             self.xpath = json.loads(f.read())
         with open(settings_path) as f:
             self.settings = json.loads(f.read())
-#        with open(map_path) as f:
-#            self.argument_map = json.loads(f.read())
         with open(districts_path) as f:
             self.districts_json = json.loads(f.read())
 
@@ -39,6 +36,7 @@ class Scheduler(object):
 
         conn = aiohttp.TCPConnector(limit=self.settings['tcp_limit'])
         async with aiohttp.ClientSession(connector=conn) as session:
+            await session.get('http://search.gjsy.gov.cn:9090/queryAll/searchFrame?districtCode=110000&checkYear=2016&sydwName=&selectPage=1')
             if os.path.exists('.job') and \
                 input("You have unsave job, do you still want to continue the job last time? y/n:") != 'n':
                 with open('.job', 'r') as f:
@@ -63,6 +61,4 @@ if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(scheduler.start())
     loop.close()
-
-
 

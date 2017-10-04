@@ -24,3 +24,7 @@
 [2017-10-04 14:17:35]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
 [2017-10-04 14:17:40]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
 [2017-10-04 14:20:49]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 21:42:16]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: name 'report_list' is not defined
+[2017-10-04 22:51:38]: runtime-log ERROR 86 A fatal error occured when crawling report! Reason: name 'session' is not defined
+[2017-10-04 22:51:48]: runtime-log ERROR 86 A fatal error occured when crawling report! Reason: name 'session' is not defined
+[2017-10-04 22:52:01]: runtime-log ERROR 86 A fatal error occured when crawling report! Reason: 'TCPConnector' object has no attribute 'len'

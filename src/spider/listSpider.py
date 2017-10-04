@@ -49,7 +49,7 @@ class listSpider(object):
         url = self.settings['list_url'].format(district_code, year, 1)
 
         # get_page
-        with async_timeout.timeout(self.settings['timeout']):
+        with aiohttp.Timeout(self.settings['timeout']):
             async with self.session.get(url) as response:
                 html = ET.HTML(await response.text())
                 page_num = html.xpath("//select[@id='selectPage']/option[last()]/text()")
@@ -61,7 +61,7 @@ class listSpider(object):
     @retry(retry=retry_if_exception_type(asyncio.TimeoutError))
     async def get_report_id(self, district_code, page_id, year):
         url = self.settings['list_url'].format(district_code, year, page_id)
-        with async_timeout.timeout(self.settings['timeout']):
+        with aiohttp.Timeout(self.settings['timeout']):
             async with self.session.get(url) as response:
                 html = ET.HTML(await response.text())
                 self.report_list.update([ (res[23:29], res[30:39]) for res in html.xpath("//tr[@class='STYLE19']/td[3]/a/@href") ])
