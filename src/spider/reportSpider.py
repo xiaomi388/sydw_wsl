@@ -1,10 +1,13 @@
 #coding:utf-8
 import asyncio
 import aiohttp
+import async_timeout
 import lxml.etree as ET
 import tqdm
+from tenacity import *
 
-#from pipeline import reportPipeline
+from pipeline import reportPipeline
+from logger_helper import logger
 
 class reportSpider(object):
     def __init__(self, settings, report_list, xpath, districts_json, session):
@@ -13,6 +16,8 @@ class reportSpider(object):
         self.session = session
         self.xpath = xpath
         self.districts_json = districts_json
+        self.report_pipeline = reportPipeline(settings['parameters'])
+        self.counter = dict()
 
     def get_district_name(self, district_code):
         index = self.districts_json['index'][district_code]
@@ -25,29 +30,52 @@ class reportSpider(object):
         ret[2] = county['county_name'] if county is not None else u'未定义'
         return ret
 
+    @retry(retry=retry_if_exception_type(asyncio.TimeoutError))
     async def crawl(self, district_code, report_id):
+        # record counter
+        if report_id in self.counter:
+            self.counter[report_id] += 1 
+        else:
+            self.counter[report_id] = 1
+        if self.counter[report_id] == self.settings['max_attempts']:
+            print("attempt {} reachs max_attempts, failed")
+            del self.counter[report_id]
+            return 
+
         url = self.settings['report_url'].format(district_code, report_id)
-        res = list()
+        arguments = list()
 
         # get district
         district_name = self.get_district_name(district_code)
 
-        async with self.session.get(url) as response:
-            html = ET.HTML(await response.text())
-            for argument in self.settings['arguments']:
-                if argument == u'省':
-                    res.append(district_name[0])
-                elif argument == u'市':
-                    res.append(district_name[1])
-                elif argument == u'县':
-                    res.append(district_name[2])
-                else:
-                    res.append(html.xpath("{}/text()".format(self.xpath[argument])))
-            print(res)
-        return res
+        with async_timeout.timeout(self.settings['timeout']):
+            async with self.session.get(url) as response:
+                html = ET.HTML(await response.text())
+                for parameter in self.settings['parameters']:
+                    if parameter == u'省':
+                        arguments.append(district_name[0])
+                    elif parameter == u'市':
+                        arguments.append(district_name[1])
+                    elif parameter == u'县':
+                        arguments.append(district_name[2])
+                    else:
+                        argument = html.xpath("{}/text()".format(self.xpath[parameter]))
+                        if argument:
+                            arguments.append(argument[0])
+                        else:
+                            arguments.append('')
+                self.report_pipeline.save(arguments)
+        del self.counter[report_id]
+        report_list.remove((district_code, report_id))
 
     async def start(self):
+        print(self.report_list)
         tasks = [ self.crawl(report[0], report[1]) for report in self.report_list ]
-        [ await f for f in tqdm.tqdm(asyncio.as_completed(tasks), total=len(tasks)) ]
-
-
+        try:
+            [ await f for f in tqdm.tqdm(asyncio.as_completed(tasks), total=len(tasks)) ]
+        except Exception as e:
+            logger.error('A fatal error occured when crawling report! Reason: {}'.format(e))
+            print('A fatal error occured when crawling report! Reason: {}'.format(e))
+            with open('.job', 'w') as f:
+                f.write('\n'.join([ "{0},{1}".format(i[0], i[1]) for i in self.report_list ]))
+            exit()

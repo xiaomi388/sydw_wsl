@@ -1,0 +1,26 @@
+[2017-10-04 12:07:56]: runtime-log WARNING 46 test-of-warn
+[2017-10-04 12:08:21]: runtime-log WARNING 46 test-of-warn
+[2017-10-04 12:08:21]: runtime-log ERROR 47 test-of-warn
+[2017-10-04 12:20:37]: runtime-log WARNING 46 test-of-warn
+[2017-10-04 12:20:37]: runtime-log ERROR 47 test-of-warn
+[2017-10-04 12:31:35]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 12:31:56]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 12:32:46]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 13:18:33]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 13:48:33]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:04:46]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:06:46]: runtime-log ERROR 76 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:10:08]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:10:38]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:11:13]: runtime-log ERROR 78 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:11:39]: runtime-log ERROR 78 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:12:33]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:13:46]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:14:43]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'max_attempt'
+[2017-10-04 14:15:10]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: '5555'
+[2017-10-04 14:15:38]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:16:05]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:16:31]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:17:35]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:17:40]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:20:49]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]

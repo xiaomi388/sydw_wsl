@@ -4,6 +4,8 @@ import aiohttp
 import json
 import os
 
+from logger_helper import logger
+
 class Scheduler(object):
     def __init__(self):
         self.config_dir = os.path.join(os.path.dirname(__file__), 'config')
@@ -26,20 +28,32 @@ class Scheduler(object):
 
 
     async def start(self):
-        print("Loading config...")
-        self.load_config()
-        print("Load config successfully.")
-
         from spider.listSpider import listSpider
         from spider.reportSpider import reportSpider
+
+        print("Loading config...")
+        logger.info("Loading config")
+        self.load_config()
+        print("Load config successfully.")
+        logger.info("Loading config complete")
+
         conn = aiohttp.TCPConnector(limit=self.settings['tcp_limit'])
         async with aiohttp.ClientSession(connector=conn) as session:
-            print("Crawling report_id...")
-            self.list_spider = listSpider(self.settings, self.districts_json, session)
-            self.report_list = await self.list_spider.start()
-            print("Crawl report_id successfully.")
+            if os.path.exists('.job') and \
+                input("You have unsave job, do you still want to continue the job last time? y/n:") != 'n':
+                with open('.job', 'r') as f:
+                    self.report_list = set([ (i.split(',')[0], i.split(',')[1]) for i in f.read().splitlines() ])
+                    os.remove('.job')
+            else:
+                    print("Crawling report_id...")
+                    logger.info("Crawling report id")
+                    self.list_spider = listSpider(self.settings, self.districts_json, session)
+                    self.report_list = await self.list_spider.start()
+                    print("Crawl report_id successfully.")
+                    logger.info("Crawl report id successfully")
 
             print("Crawling report...")
+            logger.info("Crawling report")
             self.report_spider = reportSpider(self.settings, self.report_list, self.xpath, self.districts_json, session)
             await self.report_spider.start()
 
@@ -49,11 +63,6 @@ if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     loop.run_until_complete(scheduler.start())
     loop.close()
-
-
-
-
-
 
 
 

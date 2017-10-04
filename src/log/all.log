@@ -1,0 +1,1176 @@
+[2017-10-04 12:07:56]: runtime-log INFO 45 test-of-info
+[2017-10-04 12:07:56]: runtime-log WARNING 46 test-of-warn
+[2017-10-04 12:08:21]: runtime-log INFO 45 test-of-info
+[2017-10-04 12:08:21]: runtime-log WARNING 46 test-of-warn
+[2017-10-04 12:08:21]: runtime-log ERROR 47 test-of-warn
+[2017-10-04 12:20:37]: runtime-log INFO 45 test-of-info
+[2017-10-04 12:20:37]: runtime-log WARNING 46 test-of-warn
+[2017-10-04 12:20:37]: runtime-log ERROR 47 test-of-warn
+[2017-10-04 12:21:00]: runtime-log INFO 32 Loading config
+[2017-10-04 12:21:01]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:21:23]: runtime-log INFO 32 Loading config
+[2017-10-04 12:21:23]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:22:11]: runtime-log INFO 32 Loading config
+[2017-10-04 12:22:11]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:22:11]: runtime-log INFO 42 Crawling report id
+[2017-10-04 12:22:48]: runtime-log INFO 32 Loading config
+[2017-10-04 12:22:48]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:22:48]: runtime-log INFO 42 Crawling report id
+[2017-10-04 12:23:08]: runtime-log INFO 32 Loading config
+[2017-10-04 12:23:08]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:23:08]: runtime-log INFO 42 Crawling report id
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 12:23:08]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 32 Loading config
+[2017-10-04 12:28:22]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:28:22]: runtime-log INFO 42 Crawling report id
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 12:28:22]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 12:28:51]: runtime-log INFO 32 Loading config
+[2017-10-04 12:28:51]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:31:35]: runtime-log INFO 32 Loading config
+[2017-10-04 12:31:35]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:31:35]: runtime-log INFO 42 Crawling report id
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 12:31:35]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 12:31:35]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 12:31:56]: runtime-log INFO 32 Loading config
+[2017-10-04 12:31:56]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:31:56]: runtime-log INFO 42 Crawling report id
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 12:31:56]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 12:31:56]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 12:32:46]: runtime-log INFO 32 Loading config
+[2017-10-04 12:32:46]: runtime-log INFO 35 Loading config complete
+[2017-10-04 12:32:46]: runtime-log INFO 42 Crawling report id
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 12:32:46]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 12:32:46]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 13:18:33]: runtime-log INFO 32 Loading config
+[2017-10-04 13:18:33]: runtime-log INFO 35 Loading config complete
+[2017-10-04 13:18:33]: runtime-log INFO 42 Crawling report id
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 13:18:33]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 13:18:33]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 13:48:33]: runtime-log INFO 35 Loading config
+[2017-10-04 13:48:33]: runtime-log INFO 38 Loading config complete
+[2017-10-04 13:48:33]: runtime-log INFO 47 Crawling report id
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 13:48:33]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 13:48:33]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:03:00]: runtime-log INFO 35 Loading config
+[2017-10-04 14:03:00]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:03:09]: runtime-log INFO 35 Loading config
+[2017-10-04 14:03:09]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:04:12]: runtime-log INFO 35 Loading config
+[2017-10-04 14:04:12]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:04:44]: runtime-log INFO 35 Loading config
+[2017-10-04 14:04:44]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:04:46]: runtime-log INFO 47 Crawling report id
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 14:04:46]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 14:04:46]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:04:51]: runtime-log INFO 35 Loading config
+[2017-10-04 14:04:51]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:04:52]: runtime-log INFO 54 Crawling report
+[2017-10-04 14:06:45]: runtime-log INFO 35 Loading config
+[2017-10-04 14:06:45]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:06:46]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:06:46]: runtime-log ERROR 76 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:08:21]: runtime-log INFO 35 Loading config
+[2017-10-04 14:08:21]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:08:23]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:09:48]: runtime-log INFO 35 Loading config
+[2017-10-04 14:09:49]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:09:50]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:10:07]: runtime-log INFO 35 Loading config
+[2017-10-04 14:10:07]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:10:08]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:10:08]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:10:37]: runtime-log INFO 35 Loading config
+[2017-10-04 14:10:37]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:10:38]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:10:38]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:11:11]: runtime-log INFO 35 Loading config
+[2017-10-04 14:11:11]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:11:13]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:11:13]: runtime-log ERROR 78 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:11:38]: runtime-log INFO 35 Loading config
+[2017-10-04 14:11:38]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:11:39]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:11:39]: runtime-log ERROR 78 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:12:32]: runtime-log INFO 35 Loading config
+[2017-10-04 14:12:32]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:12:33]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:12:33]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:13:45]: runtime-log INFO 35 Loading config
+[2017-10-04 14:13:45]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:13:46]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:13:46]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'int' object is not subscriptable
+[2017-10-04 14:14:18]: runtime-log INFO 35 Loading config
+[2017-10-04 14:14:18]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:14:42]: runtime-log INFO 35 Loading config
+[2017-10-04 14:14:42]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:14:43]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:14:43]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: 'max_attempt'
+[2017-10-04 14:14:53]: runtime-log INFO 35 Loading config
+[2017-10-04 14:14:53]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:14:54]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:15:09]: runtime-log INFO 35 Loading config
+[2017-10-04 14:15:09]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:15:10]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:15:10]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: '5555'
+[2017-10-04 14:15:37]: runtime-log INFO 35 Loading config
+[2017-10-04 14:15:37]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:15:38]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:15:38]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:16:04]: runtime-log INFO 35 Loading config
+[2017-10-04 14:16:04]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:16:05]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:16:05]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:16:30]: runtime-log INFO 35 Loading config
+[2017-10-04 14:16:30]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:16:31]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:16:31]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:17:33]: runtime-log INFO 35 Loading config
+[2017-10-04 14:17:34]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:17:35]: runtime-log INFO 55 Crawling report
+[2017-10-04 14:17:35]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:17:39]: runtime-log INFO 35 Loading config
+[2017-10-04 14:17:39]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:17:39]: runtime-log INFO 48 Crawling report id
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210881 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210882 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210902 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210903 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210904 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210905 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210911 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210921 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210922 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211002 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211003 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211004 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211005 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211011 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211021 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211081 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211102 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211103 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211121 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211122 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211202 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211204 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211221 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211223 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211224 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211281 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211282 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211302 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211303 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211321 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211322 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211324 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211381 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211382 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211402 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211403 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211404 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211421 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211422 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211481 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210204 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210211 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210212 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210213 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210224 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210281 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210282 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210283 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210284 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210302 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210303 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210304 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210311 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210321 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210323 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210381 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210000 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210402 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210203 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210100 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210403 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210200 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210404 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210300 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210411 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210400 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210421 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210422 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210500 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210423 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210600 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210700 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210502 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210800 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210503 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210900 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210504 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211000 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210505 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211100 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210521 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211200 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210522 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211300 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210602 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 211400 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210603 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210102 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210604 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210103 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210624 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210104 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210681 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210105 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210682 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210106 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210702 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210111 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210703 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210112 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210711 in year 2016
+[2017-10-04 14:17:39]: runtime-log INFO 71 crawling report id for district 210113 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210726 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210114 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210727 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210122 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210781 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210123 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210782 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210124 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210802 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210181 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210803 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210202 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210804 in year 2016
+[2017-10-04 14:17:40]: runtime-log INFO 71 crawling report id for district 210811 in year 2016
+[2017-10-04 14:17:40]: runtime-log ERROR 91 A fatal error occured when crawling report id! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
+[2017-10-04 14:20:31]: runtime-log INFO 35 Loading config
+[2017-10-04 14:20:31]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:20:47]: runtime-log INFO 35 Loading config
+[2017-10-04 14:20:47]: runtime-log INFO 38 Loading config complete
+[2017-10-04 14:20:49]: runtime-log INFO 56 Crawling report
+[2017-10-04 14:20:49]: runtime-log ERROR 77 A fatal error occured when crawling report! Reason: [Errno 8] Cannot connect to host search.gjsy.gov.cn:9090 ssl:False [nodename nor servname provided, or not known]
